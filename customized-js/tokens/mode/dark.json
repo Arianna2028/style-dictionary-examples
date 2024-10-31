@@ -1,0 +1,20 @@
+{
+  "color": {
+    "fg": {
+      "primary": {
+        "type": "color",
+        "value": "{color.opacity.white.98}"
+      },
+      "secondary": {
+        "type": "color",
+        "value": "{color.opacity.white.76}"
+      }
+    }
+  },
+  "bg": {
+    "base": {
+      "type": "color",
+      "value": "{color.dark.bg.base}"
+    }
+  }
+}

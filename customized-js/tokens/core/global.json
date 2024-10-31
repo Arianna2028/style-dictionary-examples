@@ -1,0 +1,46 @@
+{
+  "color": {
+    "base": {
+      "white": {
+        "type": "color",
+        "value": "#ffffff"
+      },
+      "black": {
+        "type": "color",
+        "value": "#000000"
+      }
+    },
+    "opacity": {
+      "white": {
+        "76": {
+          "type": "color",
+          "value": "rgba({color.base.white}, 0.76)"
+        },
+        "98": {
+          "type": "color",
+          "value": "rgba({color.base.white}, 0.98)"
+        }
+      },
+      "black": {
+        "76": {
+          "type": "color",
+          "value": "rgba({color.base.black}, 0.76)"
+        },
+        "98": {
+          "type": "color",
+          "value": "rgba({color.base.black}, 0.98)"
+        }
+      }
+    },
+    "neutral": {
+      "100": {
+        "type": "color",
+        "value": "#F4F4F4"
+      },
+      "900": {
+        "type": "color",
+        "value": "#F3F3F3"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "color": {
+    "dark": {
+      "bg": {
+        "base": {
+          "type": "color",
+          "value": "{color.neutral.900}"
+        }
+      }
+    }
+  }
+}

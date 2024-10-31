@@ -1,13 +1,14 @@
 {
-  "name": "simple-css",
-  "version": "1.0.0",
+  "name": "customized",
+  "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "build.js",
   "scripts": {
-    "build": "npx style-dictionary build"
+    "build": "node build.js"
   },
   "keywords": [],
   "author": "",
+  "type": "module",
   "license": "ISC",
   "dependencies": {
     "style-dictionary": "^3.9.2"
