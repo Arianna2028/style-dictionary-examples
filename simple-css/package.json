@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "style-dictionary": "^3.9.2"
+    "style-dictionary": "^4.1.4"
   }
 }
